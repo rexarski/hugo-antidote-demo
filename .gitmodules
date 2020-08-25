@@ -1,0 +1,3 @@
+[submodule "themes/antidote"]
+	path = themes/antidote
+	url = https://github.com/rexarski/antidote.git

@@ -1,0 +1,50 @@
+enable: true
+title: Team that makes the difference.
+members:
+  - image: images/team/team-member-one.jpg
+    name: JANE DOE
+    designation: JOB TITLE
+    email: ""
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-member-two.jpg
+    name: JOHN DOE
+    designation: JOB TITLE
+    email: ""
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-member-three.jpg
+    name: JOHN DOE
+    designation: JOB TITLE
+    email: ""
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-member-four.jpg
+    name: JOHN DOE
+    designation: JOB TITLE
+    email: ""
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-member-five.jpg
+    name: JOHN DOE
+    designation: JOB TITLE
+    email: ""
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-member-six.jpg
+    name: JOHN DOE
+    designation: JOB TITLE
+    email: ""
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/

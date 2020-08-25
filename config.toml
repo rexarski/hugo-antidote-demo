@@ -1,0 +1,128 @@
+baseURL = "/"
+languageCode = "en-us"
+summarylength = 25
+theme = "antidote"
+title = "Antidote | a Hugo theme crafted to cure"
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name = "Home"
+url = ""
+weight = 1
+[[menu.nav]]
+name = "About"
+url = "about"
+weight = 2
+# [[menu.nav]]
+# name = "Pricing"
+# url = "price"
+# weight = 3
+[[menu.nav]]
+name = "Project"
+url = "portfolio"
+weight = 4
+[[menu.nav]]
+name = "Blog"
+url = "blog"
+weight = 5
+[[menu.nav]]
+name = "Let's talk!"
+url = "contact"
+weight = 6
+
+# Site Params
+[params]
+dateFormat = "26 FEB 1994"
+logo = "images/logo.png"
+# Meta data
+author = "Qiu Rui"
+description = "Antidote | a Hugo theme crafted to cure"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# We're using formspree.io for form handling, paste your formspree url below
+formspreeFormUrl = "https://formspree.io/input_your_url_here"
+
+# Navbar Action Button
+[params.navAction]
+name = "Get in touch"
+status = true
+url = "contact"
+
+# Banner Section
+[params.banner]
+background_image = "images/backgrounds/hero-background-2.jpg"
+enable = true
+heading = "An Antidote to Chaos"
+primary_button = "See our works"
+primary_button_url = "portfolio"
+secondary_button = "Connect with us"
+secondary_button_url = "contact"
+tagline = "INTRODUCING OUR HUGO THEME"
+
+[params.portfolio]
+enable = true
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title = "RECENT PROJECTS"
+
+[params.call_to_action]
+button = "Enquire"
+button_url = "contact"
+enable = true
+title = "LET’S WORK TOGETHER"
+
+[params.blog_single]
+button = "Back"
+button_url = "blog"
+
+[params.contactcards]
+address_line1 = "2 Park St."
+address_line2 = "Sydney, NSW 2000"
+email = "hi@k2l.com.au"
+map_url = "https://i.imgur.com/fAZ7sj0.png"
+office = "Sydney Office"
+tel = "0400-000-000"
+title = "Contact Us"
+
+[params.footer]
+# Footer Contact Info
+[params.footer.contactInfo]
+address = "2 Park St.<br>Sydney, NSW 2000"
+email = "hi@k2l.com.au"
+phone = "0400-000-000"
+title = "Contact Info"
+# Footer Sitemap
+[params.footer.sitemap]
+title = "Sitemap"
+[[params.footer.sitemap.link]]
+name = "About"
+url = "about"
+[[params.footer.sitemap.link]]
+name = "Projects"
+url = "portfolio"
+[[params.footer.sitemap.link]]
+name = "Blog"
+url = "blog"
+[[params.footer.sitemap.link]]
+name = "Contact"
+url = "contact"
+# Footer Social Media
+[params.footer.social]
+title = "Social Media"
+[[params.footer.social.link]]
+name = "Behance"
+url = "#"
+[[params.footer.social.link]]
+name = "Instagram"
+url = "#"
+[[params.footer.social.link]]
+name = "Twitter"
+url = "#"
+[[params.footer.social.link]]
+name = "YouTube"
+url = "#"
+# Footer Service
+[params.footer.service]
+description = "Service 1<br>Service 2<br>Service 3"
+title = "We help our clients:"

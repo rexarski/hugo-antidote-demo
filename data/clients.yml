@@ -1,0 +1,15 @@
+enable: true
+title: "Our Beloved Customers"
+client_logos:
+  [
+    "images/clients/android.png",
+    "images/clients/apple.png",
+    "images/clients/codepen.png",
+    "images/clients/github.png",
+    "images/clients/gitlab.png",
+    "images/clients/linux-alt.png",
+    "images/clients/python.png",
+    "images/clients/react.png",
+    "images/clients/windows.png",
+    "images/clients/wordpress.png",
+  ]

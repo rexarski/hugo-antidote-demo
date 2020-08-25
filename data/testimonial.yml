@@ -1,0 +1,39 @@
+enable: true
+title: "TESTIMONIALS"
+subtitle: "Hear from real voices."
+testimonial_item:
+  - thumb: "images/testimonial/user-thumb-one.jpg"
+    name: "Jane Doe"
+    company_position: "CEO, Company"
+    quote: >
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - thumb: "images/testimonial/user-thumb-two.jpg"
+    name: "John Doe"
+    company_position: "CEO, Company"
+    quote: >
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - thumb: "images/testimonial/user-thumb-three.jpg"
+    name: "Jane Doe"
+    company_position: "CEO, Company"
+    quote: >
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - thumb: "images/testimonial/user-thumb-four.jpg"
+    name: "Jane Doe"
+    company_position: "CEO, Company"
+    quote: >
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - thumb: "images/testimonial/user-thumb-five.jpg"
+    name: "John Doe"
+    company_position: "CEO, Company"
+    quote: >
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - thumb: "images/testimonial/user-thumb-six.jpg"
+    name: "John Doe"
+    company_position: "CEO, Company"
+    quote: >
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
